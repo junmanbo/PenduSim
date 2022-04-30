@@ -29,6 +29,7 @@ namespace PenduSim
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.shapeContainer1 = new Microsoft.VisualBasic.PowerPacks.ShapeContainer();
             this.pendCeiling = new Microsoft.VisualBasic.PowerPacks.RectangleShape();
             this.pendBall = new Microsoft.VisualBasic.PowerPacks.OvalShape();
@@ -38,6 +39,7 @@ namespace PenduSim
             this.txtDeg = new System.Windows.Forms.TextBox();
             this.trkBar = new System.Windows.Forms.TrackBar();
             this.trkDeg = new System.Windows.Forms.TrackBar();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.trkBar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trkDeg)).BeginInit();
             this.SuspendLayout();
@@ -128,6 +130,10 @@ namespace PenduSim
             this.trkDeg.Value = 30;
             this.trkDeg.Scroll += new System.EventHandler(this.trkDeg_Scroll);
             // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // frmPendu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
@@ -163,6 +169,7 @@ namespace PenduSim
         private System.Windows.Forms.TextBox txtDeg;
         private System.Windows.Forms.TrackBar trkBar;
         private System.Windows.Forms.TrackBar trkDeg;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 

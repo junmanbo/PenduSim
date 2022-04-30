@@ -13,42 +13,30 @@ namespace PenduSim
 {
     public partial class frmPendu : Form
     {
+        int PendBar, PendDeg;
         public frmPendu()
         {
             InitializeComponent();
         }
         private void frmPendu_Load(object sender, EventArgs e)
         {
-            int bar = Convert.ToInt32(txtBar.Text);
-            int deg = Convert.ToInt32(txtDeg.Text);
+            PendBar = Convert.ToInt32(txtBar.Text);
+            PendDeg = Convert.ToInt32(txtDeg.Text);
 
-            drawPendu(bar, deg);
+            drawPendu(PendBar, PendDeg);
         }
 
         private void btnStart_Click(object sender, EventArgs e)
         {
-            int bar = Convert.ToInt32(txtBar.Text);
-            int deg = Convert.ToInt32(txtDeg.Text);
-            int inc = 1;
-
             if (btnStart.Text == "Start")
             {
                 btnStart.Text = "Stop";
-                while (btnStart.Text == "Stop")
-                {
-                    drawPendu(bar, deg);
-                    Application.DoEvents();
-                    Thread.Sleep(30);
-                    deg += inc;
-                    if (deg > 60 || deg < -60)
-                    {
-                        inc = -inc;
-                    }
-                }
+                timer1.Enabled = true;
             }
             else
             {
                 btnStart.Text = "Start";
+                timer1.Enabled = false;
             }
         }
         private void drawPendu(int bar, int deg)
@@ -65,6 +53,9 @@ namespace PenduSim
             xo -= pendBall.Width / 2;
             yo -= pendBall.Height / 2;
             pendBall.Location = new Point(xo, yo);
+
+            PendBar = bar;
+            PendDeg = deg;
         }
 
         private void trkBar_Scroll(object sender, EventArgs e)
@@ -117,5 +108,15 @@ namespace PenduSim
 
         }
 
+        int PendInc = 3;
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            drawPendu(PendBar, PendDeg);
+            PendDeg += PendInc;
+            if (PendDeg > 50 || PendDeg < -50)
+                PendInc = -PendInc;
+
+
+        }
     }
 }
