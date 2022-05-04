@@ -11,3 +11,4 @@ C:\Users\KHJ\Documents\PenduSim\PenduSim\PenduSim\obj\Debug\PenduSim.csproj.Copy
 C:\Users\KHJ\Documents\PenduSim\PenduSim\PenduSim\obj\Debug\PenduSim.exe
 C:\Users\KHJ\Documents\PenduSim\PenduSim\PenduSim\obj\Debug\PenduSim.pdb
 C:\Users\KHJ\Documents\PenduSim\PenduSim\PenduSim\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\KHJ\Documents\PenduSim\PenduSim\PenduSim\obj\Debug\PenduSim.frmData.resources
