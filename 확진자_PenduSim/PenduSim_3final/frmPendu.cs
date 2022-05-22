@@ -18,54 +18,41 @@ namespace PenduSim
         private void btnPlay_Click(object sender, EventArgs e)
         {
             
-            if (String.IsNullOrWhiteSpace(tbDeg.Text) || String.IsNullOrWhiteSpace(tbBar.Text) ||String.IsNullOrWhiteSpace(tbM.Text))
-            {
-                MessageBox.Show("텍스트 박스를 모두 입력해 주세요");
-            }
+            double a = Convert.ToDouble(tbBar.Text);
+            double b = Convert.ToDouble(tbM.Text);
+            double c = Convert.ToDouble(tbDeg.Text);
+            if (a == 0)
+            { MessageBox.Show("줄의 길이를 0 이상으로 입력해 주십시오."); }
+            else if (b == 0)
+            { MessageBox.Show("질량을 0 이상으로 입력해 주십시오."); }
+            else if (c == 0)
+            { MessageBox.Show("각도를 0 이상으로 입력해 주십시오."); }
             else
             {
-                double a = Convert.ToDouble(tbBar.Text);
-                double b = Convert.ToDouble(tbM.Text);
-                double c = Convert.ToDouble(tbDeg.Text);
-                if (a == 0)
-                { MessageBox.Show("줄의 길이를 0 이상으로 입력해 주십시오."); }
-                else if (b == 0)
-                { MessageBox.Show("질량을 0 이상으로 입력해 주십시오."); }
-                else if (c == 0)
-                { MessageBox.Show("각도를 0 이상으로 입력해 주십시오."); }
+                double deg = Convert.ToDouble(tbDeg.Text);
+                double Pend_Len = Convert.ToDouble(tbBar.Text);
+                double Mass = Convert.ToDouble(tbM.Text);
+                double G = 9.8;
+                CoefB = Convert.ToDouble(tbAR.Text); //저항
+                CoefA = G / Pend_Len;
+                pTime = Convert.ToSingle(lblSec.Text);
+                T = 2 * Math.PI / Math.Sqrt(Math.Abs(CoefA - (V * CoefB / (Mass * Pend_Len * Math.Sin(deg)))));//주기
+
+                if (timer1.Enabled == true)
+                {
+                    timer1.Enabled = false;
+                    btnPlay.Text = "Play";
+                }
                 else
                 {
-                    double deg = Convert.ToDouble(tbDeg.Text);
-                    double Pend_Len = Convert.ToDouble(tbBar.Text);
-                    double Mass = Convert.ToDouble(tbM.Text);
-                    //double Velocity = Convert.ToDouble(lblV.Text);
-                    double G = selectPlanet();
-                    CoefB = selectAR();
-                    CoefA = G / Pend_Len;
-                    pTime = Convert.ToSingle(lblSec.Text);
-                    T = 2 * Math.PI / Math.Sqrt(Math.Abs(CoefA - (V * CoefB / (Mass * Pend_Len * Math.Sin(deg)))));//주기
-
-                    if (timer1.Enabled == true)
-                    {
-                        timer1.Enabled = false;
-                        btnPlay.Text = "Play";
-
-
-                    }
-                    else
-                    {
-                        timer1.Enabled = true;
-                        btnPlay.Text = "Pause";
-                        msecStart = DateTimeOffset.Now.ToUnixTimeMilliseconds();
-
-                    }
+                    timer1.Enabled = true;
+                    btnPlay.Text = "Pause";
+                    msecStart = DateTimeOffset.Now.ToUnixTimeMilliseconds();
                 }
             }
         }
         private void frPen_Load(object sender, EventArgs e)
         {
-            cb_G.SelectedIndex = 0;
-            cb_AR.SelectedIndex = 0;
             int x0 = rectangleShape1.Location.X + rectangleShape1.Width / 2;
             int y0 = rectangleShape1.Location.Y + rectangleShape1.Height;
             int bar_len = 200;
@@ -135,12 +122,11 @@ namespace PenduSim
 
                 int ang = Math.Abs((int)(VV * 15));
                 int fang = Math.Abs((int)(a * 15));
-                //int a = (int)keep; // 진공이외의 매질의경우
 
-                VRArrow.Size = new Size(ang, ang);
-                VLArrow.Size = new Size(ang, ang);
-                ARArrow.Size = new Size(fang, fang);
-                ALArrow.Size = new Size(fang, fang);
+                VRArrow.Size = new Size(ang/2, ang/2);
+                VLArrow.Size = new Size(ang/2, ang/2);
+                ARArrow.Size = new Size(fang/2, fang/2);
+                ALArrow.Size = new Size(fang/2, fang/2);
             }
         }
         public frPen()
@@ -231,64 +217,6 @@ namespace PenduSim
             }
         }
 
-        private void cb_G_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            timer1.Enabled = false;
-            btnPlay.Text = "Play";
-            double G = selectPlanet();
-           // lbl_G.Text = G.ToString("0.000");
-            int a=cb_G.SelectedIndex;
-            if (a == 2)
-            {
-            }
-            else  
-            {
-                cb_AR.SelectedIndex = 0;
-            }
-        }
-        private void cb_AR_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            timer1.Enabled = false;
-            btnPlay.Text = "Play";
-        }
-
-        public double selectAR()
-        {
-            int a = cb_AR.SelectedIndex;
-            double B = 0;
-            switch (a)
-            {
-                case 0:
-                    B = 0;
-                    break;
-                case 1:
-                    B = 0.0323;
-                    break;
-                case 2:
-                    B = 2.0894;
-                    break;
-            }
-            return B;
-        }
-
-        public double selectPlanet()
-        {
-            int a = cb_G.SelectedIndex;
-            double G = 0;
-            switch (a)
-            {
-                case 0:
-                    G = 9.806;
-                    //this.BackgroundImage = new Bitmap(PenduSim.Properties.Resources.지구);
-                    break;
-                case 1:
-                    G = 1.63;
-                    //this.BackgroundImage = new Bitmap(PenduSim.Properties.Resources.달);
-                    break;
-            }
-            return (G);
-        }
-
         double CoefA, CoefB, T, V, a, Ek, Ep;
 
         private void tbM_KeyPress(object sender, KeyPressEventArgs e)
@@ -315,6 +243,26 @@ namespace PenduSim
         private void VLArrow_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void trkBar_Scroll(object sender, EventArgs e)
+        {
+            tbBar.Text = trkBar.Value.ToString();
+        }
+
+        private void trkDeg_Scroll(object sender, EventArgs e)
+        {
+            tbDeg.Text = trkDeg.Value.ToString();
+        }
+
+        private void trkM_Scroll(object sender, EventArgs e)
+        {
+            tbM.Text = trkM.Value.ToString();
+        }
+
+        private void trkAR_Scroll(object sender, EventArgs e)
+        {
+            tbAR.Text = trkAR.Value.ToString();
         }
 
         private void tbDeg_KeyPress(object sender, KeyPressEventArgs e)
@@ -365,7 +313,7 @@ namespace PenduSim
             double ESum;
             
             V = Pend_dTh * Pend_Len;
-            double G = selectPlanet();
+            double G = 9.8;
             double Mass = Convert.ToDouble(tbM.Text);
             a = df * Pend_Len;
             Ek = Mass * V * V / 2;

@@ -29,17 +29,17 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series5 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea19 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend19 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series31 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea20 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend20 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series32 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series33 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea21 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend21 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series34 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series35 = new System.Windows.Forms.DataVisualization.Charting.Series();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frPen));
             this.shapeContainer1 = new Microsoft.VisualBasic.PowerPacks.ShapeContainer();
             this.rectangleShape1 = new Microsoft.VisualBasic.PowerPacks.RectangleShape();
@@ -52,7 +52,6 @@
             this.lbBar = new System.Windows.Forms.Label();
             this.lbDeg = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.lbGA = new System.Windows.Forms.Label();
             this.tbM = new System.Windows.Forms.TextBox();
             this.lbM = new System.Windows.Forms.Label();
             this.lbAR = new System.Windows.Forms.Label();
@@ -64,9 +63,8 @@
             this.chart3 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.label18 = new System.Windows.Forms.Label();
             this.label19 = new System.Windows.Forms.Label();
-            this.cb_G = new System.Windows.Forms.ComboBox();
-            this.cb_AR = new System.Windows.Forms.ComboBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.tbAR = new System.Windows.Forms.TextBox();
             this.lblDegCh = new System.Windows.Forms.Label();
             this.lblSec = new System.Windows.Forms.Label();
             this.lblCy = new System.Windows.Forms.Label();
@@ -85,6 +83,8 @@
             this.lbEp = new System.Windows.Forms.Label();
             this.lbSum = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -92,6 +92,10 @@
             this.VRArrow = new System.Windows.Forms.PictureBox();
             this.ALArrow = new System.Windows.Forms.PictureBox();
             this.VLArrow = new System.Windows.Forms.PictureBox();
+            this.trkBar = new System.Windows.Forms.TrackBar();
+            this.trkDeg = new System.Windows.Forms.TrackBar();
+            this.trkM = new System.Windows.Forms.TrackBar();
+            this.trkAR = new System.Windows.Forms.TrackBar();
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.chart2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.chart3)).BeginInit();
@@ -104,6 +108,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.VRArrow)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ALArrow)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.VLArrow)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trkBar)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trkDeg)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trkM)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trkAR)).BeginInit();
             this.SuspendLayout();
             // 
             // shapeContainer1
@@ -152,7 +160,7 @@
             // btnPlay
             // 
             this.btnPlay.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnPlay.Location = new System.Drawing.Point(85, 156);
+            this.btnPlay.Location = new System.Drawing.Point(81, 194);
             this.btnPlay.Margin = new System.Windows.Forms.Padding(2);
             this.btnPlay.Name = "btnPlay";
             this.btnPlay.Size = new System.Drawing.Size(84, 53);
@@ -164,12 +172,12 @@
             // tbBar
             // 
             this.tbBar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbBar.Location = new System.Drawing.Point(105, 55);
+            this.tbBar.Location = new System.Drawing.Point(105, 37);
             this.tbBar.Margin = new System.Windows.Forms.Padding(2);
             this.tbBar.Name = "tbBar";
             this.tbBar.Size = new System.Drawing.Size(60, 21);
             this.tbBar.TabIndex = 2;
-            this.tbBar.Text = "2.0";
+            this.tbBar.Text = "2";
             this.tbBar.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.tbBar.TextChanged += new System.EventHandler(this.tbBar_TextChanged);
             this.tbBar.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbBar_KeyPress);
@@ -177,7 +185,7 @@
             // tbDeg
             // 
             this.tbDeg.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbDeg.Location = new System.Drawing.Point(105, 85);
+            this.tbDeg.Location = new System.Drawing.Point(105, 71);
             this.tbDeg.Margin = new System.Windows.Forms.Padding(2);
             this.tbDeg.Name = "tbDeg";
             this.tbDeg.Size = new System.Drawing.Size(60, 21);
@@ -195,7 +203,7 @@
             // 
             this.lbBar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.lbBar.AutoSize = true;
-            this.lbBar.Location = new System.Drawing.Point(8, 57);
+            this.lbBar.Location = new System.Drawing.Point(8, 37);
             this.lbBar.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbBar.Name = "lbBar";
             this.lbBar.Padding = new System.Windows.Forms.Padding(0, 3, 0, 3);
@@ -207,7 +215,7 @@
             // 
             this.lbDeg.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.lbDeg.AutoSize = true;
-            this.lbDeg.Location = new System.Drawing.Point(8, 87);
+            this.lbDeg.Location = new System.Drawing.Point(8, 71);
             this.lbDeg.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbDeg.Name = "lbDeg";
             this.lbDeg.Padding = new System.Windows.Forms.Padding(0, 3, 0, 3);
@@ -218,7 +226,7 @@
             // button1
             // 
             this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.button1.Location = new System.Drawing.Point(190, 156);
+            this.button1.Location = new System.Drawing.Point(199, 194);
             this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(84, 53);
@@ -227,28 +235,16 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // lbGA
-            // 
-            this.lbGA.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.lbGA.AutoSize = true;
-            this.lbGA.Location = new System.Drawing.Point(178, 57);
-            this.lbGA.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.lbGA.Name = "lbGA";
-            this.lbGA.Padding = new System.Windows.Forms.Padding(0, 3, 0, 3);
-            this.lbGA.Size = new System.Drawing.Size(107, 18);
-            this.lbGA.TabIndex = 16;
-            this.lbGA.Text = "중력 가속도(m/s²)";
-            // 
             // tbM
             // 
             this.tbM.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbM.Location = new System.Drawing.Point(105, 115);
+            this.tbM.Location = new System.Drawing.Point(105, 111);
             this.tbM.Margin = new System.Windows.Forms.Padding(2);
             this.tbM.Name = "tbM";
             this.tbM.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.tbM.Size = new System.Drawing.Size(60, 21);
             this.tbM.TabIndex = 17;
-            this.tbM.Text = "0.264";
+            this.tbM.Text = "1";
             this.tbM.TextChanged += new System.EventHandler(this.tbM_TextChanged);
             this.tbM.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbM_KeyPress);
             // 
@@ -256,7 +252,7 @@
             // 
             this.lbM.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.lbM.AutoSize = true;
-            this.lbM.Location = new System.Drawing.Point(8, 117);
+            this.lbM.Location = new System.Drawing.Point(8, 111);
             this.lbM.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbM.Name = "lbM";
             this.lbM.Padding = new System.Windows.Forms.Padding(0, 3, 0, 3);
@@ -268,7 +264,7 @@
             // 
             this.lbAR.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.lbAR.AutoSize = true;
-            this.lbAR.Location = new System.Drawing.Point(178, 97);
+            this.lbAR.Location = new System.Drawing.Point(43, 150);
             this.lbAR.Name = "lbAR";
             this.lbAR.Padding = new System.Windows.Forms.Padding(0, 3, 0, 3);
             this.lbAR.Size = new System.Drawing.Size(45, 18);
@@ -299,30 +295,30 @@
             // 
             // chart1
             // 
-            chartArea1.AxisX.LineColor = System.Drawing.Color.White;
-            chartArea1.AxisX.MajorGrid.Enabled = false;
-            chartArea1.AxisX.TitleForeColor = System.Drawing.Color.White;
-            chartArea1.AxisX2.LineColor = System.Drawing.Color.White;
-            chartArea1.AxisX2.Maximum = 20D;
-            chartArea1.AxisX2.TitleForeColor = System.Drawing.Color.White;
-            chartArea1.AxisY.LineColor = System.Drawing.Color.White;
-            chartArea1.AxisY.TitleForeColor = System.Drawing.Color.White;
-            chartArea1.AxisY2.LineColor = System.Drawing.Color.White;
-            chartArea1.AxisY2.TitleForeColor = System.Drawing.Color.White;
-            chartArea1.BorderColor = System.Drawing.Color.White;
-            chartArea1.Name = "ChartArea2";
-            this.chart1.ChartAreas.Add(chartArea1);
-            legend1.Name = "Legend1";
-            this.chart1.Legends.Add(legend1);
+            chartArea19.AxisX.LineColor = System.Drawing.Color.White;
+            chartArea19.AxisX.MajorGrid.Enabled = false;
+            chartArea19.AxisX.TitleForeColor = System.Drawing.Color.White;
+            chartArea19.AxisX2.LineColor = System.Drawing.Color.White;
+            chartArea19.AxisX2.Maximum = 20D;
+            chartArea19.AxisX2.TitleForeColor = System.Drawing.Color.White;
+            chartArea19.AxisY.LineColor = System.Drawing.Color.White;
+            chartArea19.AxisY.TitleForeColor = System.Drawing.Color.White;
+            chartArea19.AxisY2.LineColor = System.Drawing.Color.White;
+            chartArea19.AxisY2.TitleForeColor = System.Drawing.Color.White;
+            chartArea19.BorderColor = System.Drawing.Color.White;
+            chartArea19.Name = "ChartArea2";
+            this.chart1.ChartAreas.Add(chartArea19);
+            legend19.Name = "Legend1";
+            this.chart1.Legends.Add(legend19);
             this.chart1.Location = new System.Drawing.Point(12, 32);
             this.chart1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.chart1.Name = "chart1";
-            series1.ChartArea = "ChartArea2";
-            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series1.Color = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(155)))), ((int)(((byte)(55)))));
-            series1.Legend = "Legend1";
-            series1.Name = "각도";
-            this.chart1.Series.Add(series1);
+            series31.ChartArea = "ChartArea2";
+            series31.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series31.Color = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(155)))), ((int)(((byte)(55)))));
+            series31.Legend = "Legend1";
+            series31.Name = "각도";
+            this.chart1.Series.Add(series31);
             this.chart1.Size = new System.Drawing.Size(220, 129);
             this.chart1.TabIndex = 39;
             this.chart1.Text = "chart1";
@@ -339,72 +335,72 @@
             // 
             // chart2
             // 
-            chartArea2.AxisX.LineColor = System.Drawing.Color.White;
-            chartArea2.AxisX.MajorGrid.Enabled = false;
-            chartArea2.AxisX.TitleForeColor = System.Drawing.Color.White;
-            chartArea2.AxisX2.LineColor = System.Drawing.Color.White;
-            chartArea2.AxisX2.Maximum = 20D;
-            chartArea2.AxisX2.TitleForeColor = System.Drawing.Color.White;
-            chartArea2.AxisY.LineColor = System.Drawing.Color.White;
-            chartArea2.AxisY.TitleForeColor = System.Drawing.Color.White;
-            chartArea2.AxisY2.LineColor = System.Drawing.Color.White;
-            chartArea2.AxisY2.TitleForeColor = System.Drawing.Color.White;
-            chartArea2.BorderColor = System.Drawing.Color.White;
-            chartArea2.Name = "ChartArea2";
-            this.chart2.ChartAreas.Add(chartArea2);
-            legend2.Name = "Legend1";
-            this.chart2.Legends.Add(legend2);
+            chartArea20.AxisX.LineColor = System.Drawing.Color.White;
+            chartArea20.AxisX.MajorGrid.Enabled = false;
+            chartArea20.AxisX.TitleForeColor = System.Drawing.Color.White;
+            chartArea20.AxisX2.LineColor = System.Drawing.Color.White;
+            chartArea20.AxisX2.Maximum = 20D;
+            chartArea20.AxisX2.TitleForeColor = System.Drawing.Color.White;
+            chartArea20.AxisY.LineColor = System.Drawing.Color.White;
+            chartArea20.AxisY.TitleForeColor = System.Drawing.Color.White;
+            chartArea20.AxisY2.LineColor = System.Drawing.Color.White;
+            chartArea20.AxisY2.TitleForeColor = System.Drawing.Color.White;
+            chartArea20.BorderColor = System.Drawing.Color.White;
+            chartArea20.Name = "ChartArea2";
+            this.chart2.ChartAreas.Add(chartArea20);
+            legend20.Name = "Legend1";
+            this.chart2.Legends.Add(legend20);
             this.chart2.Location = new System.Drawing.Point(12, 183);
             this.chart2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.chart2.Name = "chart2";
-            series2.ChartArea = "ChartArea2";
-            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series2.Color = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            series2.Legend = "Legend1";
-            series2.Name = "운동에너지";
-            series3.ChartArea = "ChartArea2";
-            series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series3.Color = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(255)))));
-            series3.Legend = "Legend1";
-            series3.Name = "위치에너지";
-            this.chart2.Series.Add(series2);
-            this.chart2.Series.Add(series3);
+            series32.ChartArea = "ChartArea2";
+            series32.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series32.Color = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            series32.Legend = "Legend1";
+            series32.Name = "운동에너지";
+            series33.ChartArea = "ChartArea2";
+            series33.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series33.Color = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(255)))));
+            series33.Legend = "Legend1";
+            series33.Name = "위치에너지";
+            this.chart2.Series.Add(series32);
+            this.chart2.Series.Add(series33);
             this.chart2.Size = new System.Drawing.Size(220, 126);
             this.chart2.TabIndex = 36;
             this.chart2.Text = "chart2";
             // 
             // chart3
             // 
-            chartArea3.AxisX.LineColor = System.Drawing.Color.White;
-            chartArea3.AxisX.MajorGrid.Enabled = false;
-            chartArea3.AxisX.TitleForeColor = System.Drawing.Color.White;
-            chartArea3.AxisX2.LineColor = System.Drawing.Color.White;
-            chartArea3.AxisX2.Maximum = 20D;
-            chartArea3.AxisX2.TitleForeColor = System.Drawing.Color.White;
-            chartArea3.AxisY.LineColor = System.Drawing.Color.White;
-            chartArea3.AxisY.TitleForeColor = System.Drawing.Color.White;
-            chartArea3.AxisY2.LineColor = System.Drawing.Color.White;
-            chartArea3.AxisY2.TitleForeColor = System.Drawing.Color.White;
-            chartArea3.BorderColor = System.Drawing.Color.White;
-            chartArea3.Name = "ChartArea2";
-            this.chart3.ChartAreas.Add(chartArea3);
-            legend3.Name = "Legend1";
-            this.chart3.Legends.Add(legend3);
+            chartArea21.AxisX.LineColor = System.Drawing.Color.White;
+            chartArea21.AxisX.MajorGrid.Enabled = false;
+            chartArea21.AxisX.TitleForeColor = System.Drawing.Color.White;
+            chartArea21.AxisX2.LineColor = System.Drawing.Color.White;
+            chartArea21.AxisX2.Maximum = 20D;
+            chartArea21.AxisX2.TitleForeColor = System.Drawing.Color.White;
+            chartArea21.AxisY.LineColor = System.Drawing.Color.White;
+            chartArea21.AxisY.TitleForeColor = System.Drawing.Color.White;
+            chartArea21.AxisY2.LineColor = System.Drawing.Color.White;
+            chartArea21.AxisY2.TitleForeColor = System.Drawing.Color.White;
+            chartArea21.BorderColor = System.Drawing.Color.White;
+            chartArea21.Name = "ChartArea2";
+            this.chart3.ChartAreas.Add(chartArea21);
+            legend21.Name = "Legend1";
+            this.chart3.Legends.Add(legend21);
             this.chart3.Location = new System.Drawing.Point(12, 323);
             this.chart3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.chart3.Name = "chart3";
-            series4.ChartArea = "ChartArea2";
-            series4.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series4.Color = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(0)))), ((int)(((byte)(255)))));
-            series4.Legend = "Legend1";
-            series4.Name = "속도";
-            series5.ChartArea = "ChartArea2";
-            series5.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series5.Color = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            series5.Legend = "Legend1";
-            series5.Name = "가속도";
-            this.chart3.Series.Add(series4);
-            this.chart3.Series.Add(series5);
+            series34.ChartArea = "ChartArea2";
+            series34.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series34.Color = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(0)))), ((int)(((byte)(255)))));
+            series34.Legend = "Legend1";
+            series34.Name = "속도";
+            series35.ChartArea = "ChartArea2";
+            series35.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series35.Color = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            series35.Legend = "Legend1";
+            series35.Name = "가속도";
+            this.chart3.Series.Add(series34);
+            this.chart3.Series.Add(series35);
             this.chart3.Size = new System.Drawing.Size(220, 129);
             this.chart3.TabIndex = 38;
             this.chart3.Text = "chart3";
@@ -431,44 +427,19 @@
             this.label19.TabIndex = 47;
             this.label19.Text = "가속도 Arrow";
             // 
-            // cb_G
-            // 
-            this.cb_G.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.cb_G.FormattingEnabled = true;
-            this.cb_G.Items.AddRange(new object[] {
-            "지구 (9.80)",
-            "달 (1.63)"});
-            this.cb_G.Location = new System.Drawing.Point(177, 76);
-            this.cb_G.Name = "cb_G";
-            this.cb_G.Size = new System.Drawing.Size(102, 20);
-            this.cb_G.TabIndex = 48;
-            this.cb_G.SelectedIndexChanged += new System.EventHandler(this.cb_G_SelectedIndexChanged);
-            // 
-            // cb_AR
-            // 
-            this.cb_AR.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.cb_AR.FormattingEnabled = true;
-            this.cb_AR.Items.AddRange(new object[] {
-            "진공 (0)",
-            "공기 (0.03)",
-            "물 (2.08)"});
-            this.cb_AR.Location = new System.Drawing.Point(177, 116);
-            this.cb_AR.Name = "cb_AR";
-            this.cb_AR.Size = new System.Drawing.Size(102, 20);
-            this.cb_AR.TabIndex = 52;
-            this.cb_AR.SelectedIndexChanged += new System.EventHandler(this.cb_AR_SelectedIndexChanged);
-            // 
             // groupBox1
             // 
             this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBox1.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.groupBox1.Controls.Add(this.cb_AR);
-            this.groupBox1.Controls.Add(this.cb_G);
+            this.groupBox1.Controls.Add(this.trkAR);
+            this.groupBox1.Controls.Add(this.trkM);
+            this.groupBox1.Controls.Add(this.trkDeg);
+            this.groupBox1.Controls.Add(this.trkBar);
+            this.groupBox1.Controls.Add(this.tbAR);
             this.groupBox1.Controls.Add(this.VaSe);
             this.groupBox1.Controls.Add(this.lbAR);
             this.groupBox1.Controls.Add(this.lbM);
             this.groupBox1.Controls.Add(this.tbM);
-            this.groupBox1.Controls.Add(this.lbGA);
             this.groupBox1.Controls.Add(this.button1);
             this.groupBox1.Controls.Add(this.lbDeg);
             this.groupBox1.Controls.Add(this.lbBar);
@@ -477,9 +448,20 @@
             this.groupBox1.Controls.Add(this.btnPlay);
             this.groupBox1.Location = new System.Drawing.Point(691, 15);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(351, 221);
+            this.groupBox1.Size = new System.Drawing.Size(351, 263);
             this.groupBox1.TabIndex = 53;
             this.groupBox1.TabStop = false;
+            // 
+            // tbAR
+            // 
+            this.tbAR.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.tbAR.Location = new System.Drawing.Point(105, 150);
+            this.tbAR.Margin = new System.Windows.Forms.Padding(2);
+            this.tbAR.Name = "tbAR";
+            this.tbAR.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.tbAR.Size = new System.Drawing.Size(60, 21);
+            this.tbAR.TabIndex = 30;
+            this.tbAR.Text = "0.0";
             // 
             // lblDegCh
             // 
@@ -678,6 +660,8 @@
             // 
             this.groupBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBox2.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.groupBox2.Controls.Add(this.label1);
+            this.groupBox2.Controls.Add(this.label2);
             this.groupBox2.Controls.Add(this.lbSum);
             this.groupBox2.Controls.Add(this.lbEp);
             this.groupBox2.Controls.Add(this.lblSum);
@@ -695,11 +679,33 @@
             this.groupBox2.Controls.Add(this.lblCy);
             this.groupBox2.Controls.Add(this.lblSec);
             this.groupBox2.Controls.Add(this.lblDegCh);
-            this.groupBox2.Location = new System.Drawing.Point(691, 260);
+            this.groupBox2.Location = new System.Drawing.Point(691, 288);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(351, 160);
+            this.groupBox2.Size = new System.Drawing.Size(351, 176);
             this.groupBox2.TabIndex = 54;
             this.groupBox2.TabStop = false;
+            // 
+            // label1
+            // 
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(17, 148);
+            this.label1.Name = "label1";
+            this.label1.Padding = new System.Windows.Forms.Padding(0, 3, 0, 3);
+            this.label1.Size = new System.Drawing.Size(107, 18);
+            this.label1.TabIndex = 36;
+            this.label1.Text = "중력 가속도(m/s²)";
+            // 
+            // label2
+            // 
+            this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(130, 148);
+            this.label2.Name = "label2";
+            this.label2.Padding = new System.Windows.Forms.Padding(0, 3, 0, 3);
+            this.label2.Size = new System.Drawing.Size(21, 18);
+            this.label2.TabIndex = 35;
+            this.label2.Text = "9.8";
             // 
             // groupBox3
             // 
@@ -787,6 +793,44 @@
             this.VLArrow.TabStop = false;
             this.VLArrow.Click += new System.EventHandler(this.VLArrow_Click);
             // 
+            // trkBar
+            // 
+            this.trkBar.Location = new System.Drawing.Point(204, 37);
+            this.trkBar.Name = "trkBar";
+            this.trkBar.Size = new System.Drawing.Size(104, 45);
+            this.trkBar.TabIndex = 31;
+            this.trkBar.Value = 2;
+            this.trkBar.Scroll += new System.EventHandler(this.trkBar_Scroll);
+            // 
+            // trkDeg
+            // 
+            this.trkDeg.Location = new System.Drawing.Point(204, 71);
+            this.trkDeg.Maximum = 60;
+            this.trkDeg.Minimum = -60;
+            this.trkDeg.Name = "trkDeg";
+            this.trkDeg.Size = new System.Drawing.Size(104, 45);
+            this.trkDeg.TabIndex = 32;
+            this.trkDeg.Value = 45;
+            this.trkDeg.Scroll += new System.EventHandler(this.trkDeg_Scroll);
+            // 
+            // trkM
+            // 
+            this.trkM.Location = new System.Drawing.Point(204, 108);
+            this.trkM.Maximum = 15;
+            this.trkM.Name = "trkM";
+            this.trkM.Size = new System.Drawing.Size(104, 45);
+            this.trkM.TabIndex = 33;
+            this.trkM.Value = 1;
+            this.trkM.Scroll += new System.EventHandler(this.trkM_Scroll);
+            // 
+            // trkAR
+            // 
+            this.trkAR.Location = new System.Drawing.Point(204, 144);
+            this.trkAR.Name = "trkAR";
+            this.trkAR.Size = new System.Drawing.Size(104, 45);
+            this.trkAR.TabIndex = 34;
+            this.trkAR.Scroll += new System.EventHandler(this.trkAR_Scroll);
+            // 
             // frPen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
@@ -811,7 +855,7 @@
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frPen";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Pendulum Simulator V3.4";
+            this.Text = "Pendulum Simulator V4.0";
             this.Load += new System.EventHandler(this.frPen_Load);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.frPen_MouseDown);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.frPen_MouseMove);
@@ -831,6 +875,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.VRArrow)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ALArrow)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.VLArrow)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trkBar)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trkDeg)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trkM)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trkAR)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -849,7 +897,6 @@
         private System.Windows.Forms.Label lbBar;
         private System.Windows.Forms.Label lbDeg;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Label lbGA;
         private System.Windows.Forms.TextBox tbM;
         private System.Windows.Forms.Label lbM;
         private System.Windows.Forms.Label lbAR;
@@ -867,8 +914,6 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.ComboBox cb_G;
-        private System.Windows.Forms.ComboBox cb_AR;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Label lblDegCh;
         private System.Windows.Forms.Label lblSec;
@@ -889,6 +934,13 @@
         private System.Windows.Forms.Label lbSum;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox tbAR;
+        private System.Windows.Forms.TrackBar trkAR;
+        private System.Windows.Forms.TrackBar trkM;
+        private System.Windows.Forms.TrackBar trkDeg;
+        private System.Windows.Forms.TrackBar trkBar;
     }
 }
 

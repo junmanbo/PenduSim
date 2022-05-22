@@ -387,3 +387,16 @@ C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.csp
 C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
 C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.exe
 C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.pdb
+C:\Users\KHJ\Documents\확진자_PenduSim\확진자_PenduSim\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\KHJ\Documents\확진자_PenduSim\확진자_PenduSim\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\KHJ\Documents\확진자_PenduSim\확진자_PenduSim\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\KHJ\Documents\확진자_PenduSim\확진자_PenduSim\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\KHJ\Documents\확진자_PenduSim\확진자_PenduSim\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\KHJ\Documents\확진자_PenduSim\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.csproj.AssemblyReference.cache
+C:\Users\KHJ\Documents\확진자_PenduSim\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.frPen.resources
+C:\Users\KHJ\Documents\확진자_PenduSim\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\KHJ\Documents\확진자_PenduSim\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\KHJ\Documents\확진자_PenduSim\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\KHJ\Documents\확진자_PenduSim\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\KHJ\Documents\확진자_PenduSim\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\KHJ\Documents\확진자_PenduSim\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.pdb
