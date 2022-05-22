@@ -1,0 +1,389 @@
+C:\Users\김요한\Desktop\고프 진자과\PenduSim\PenduSim\bin\Debug\PenduSim.exe.config
+C:\Users\김요한\Desktop\고프 진자과\PenduSim\PenduSim\bin\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\고프 진자과\PenduSim\PenduSim\bin\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\고프 진자과\PenduSim\PenduSim\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\김요한\Desktop\고프 진자과\PenduSim\PenduSim\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\김요한\Desktop\고프 진자과\PenduSim\PenduSim\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\김요한\Desktop\고프 진자과\PenduSim\PenduSim\obj\Debug\PenduSim.Form1.resources
+C:\Users\김요한\Desktop\고프 진자과\PenduSim\PenduSim\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\김요한\Desktop\고프 진자과\PenduSim\PenduSim\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\김요한\Desktop\고프 진자과\PenduSim\PenduSim\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\김요한\Desktop\고프 진자과\PenduSim\PenduSim\obj\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\고프 진자과\PenduSim\PenduSim\obj\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\고프 진자프로젝트\PenduSim\PenduSim\bin\Debug\PenduSim.exe.config
+C:\Users\김요한\Desktop\고프 진자프로젝트\PenduSim\PenduSim\bin\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\고프 진자프로젝트\PenduSim\PenduSim\bin\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\고프 진자프로젝트\PenduSim\PenduSim\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\김요한\Desktop\고프 진자프로젝트\PenduSim\PenduSim\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\김요한\Desktop\고프 진자프로젝트\PenduSim\PenduSim\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\김요한\Desktop\고프 진자프로젝트\PenduSim\PenduSim\obj\Debug\PenduSim.Form1.resources
+C:\Users\김요한\Desktop\고프 진자프로젝트\PenduSim\PenduSim\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\김요한\Desktop\고프 진자프로젝트\PenduSim\PenduSim\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\김요한\Desktop\고프 진자프로젝트\PenduSim\PenduSim\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\김요한\Desktop\고프 진자프로젝트\PenduSim\PenduSim\obj\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\고프 진자프로젝트\PenduSim\PenduSim\obj\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\고프 진자프로젝트\새 폴더\PenduSim\PenduSim\bin\Debug\PenduSim.exe.config
+C:\Users\김요한\Desktop\고프 진자프로젝트\새 폴더\PenduSim\PenduSim\bin\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\고프 진자프로젝트\새 폴더\PenduSim\PenduSim\bin\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\고프 진자프로젝트\새 폴더\PenduSim\PenduSim\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\김요한\Desktop\고프 진자프로젝트\새 폴더\PenduSim\PenduSim\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\김요한\Desktop\고프 진자프로젝트\새 폴더\PenduSim\PenduSim\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\김요한\Desktop\고프 진자프로젝트\새 폴더\PenduSim\PenduSim\obj\Debug\PenduSim.Form1.resources
+C:\Users\김요한\Desktop\고프 진자프로젝트\새 폴더\PenduSim\PenduSim\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\김요한\Desktop\고프 진자프로젝트\새 폴더\PenduSim\PenduSim\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\김요한\Desktop\고프 진자프로젝트\새 폴더\PenduSim\PenduSim\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\김요한\Desktop\고프 진자프로젝트\새 폴더\PenduSim\PenduSim\obj\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\고프 진자프로젝트\새 폴더\PenduSim\PenduSim\obj\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\진자 2차 과제\새 폴더\PenduSim\PenduSim3\bin\Debug\PenduSim.exe.config
+C:\Users\김요한\Desktop\진자 2차 과제\새 폴더\PenduSim\PenduSim3\bin\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\진자 2차 과제\새 폴더\PenduSim\PenduSim3\bin\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\진자 2차 과제\새 폴더\PenduSim\PenduSim3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\김요한\Desktop\진자 2차 과제\새 폴더\PenduSim\PenduSim3\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\김요한\Desktop\진자 2차 과제\새 폴더\PenduSim\PenduSim3\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\김요한\Desktop\진자 2차 과제\새 폴더\PenduSim\PenduSim3\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\김요한\Desktop\진자 2차 과제\새 폴더\PenduSim\PenduSim3\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\김요한\Desktop\진자 2차 과제\새 폴더\PenduSim\PenduSim3\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\김요한\Desktop\진자 2차 과제\새 폴더\PenduSim\PenduSim3\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\김요한\Desktop\진자 2차 과제\새 폴더\PenduSim\PenduSim3\obj\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\진자 2차 과제\새 폴더\PenduSim\PenduSim3\obj\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\PenduSim3\bin\Debug\PenduSim.exe.config
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\PenduSim3\bin\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\PenduSim3\bin\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\PenduSim3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\PenduSim3\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\PenduSim3\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\PenduSim3\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\PenduSim3\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\PenduSim3\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\PenduSim3\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\PenduSim3\obj\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\PenduSim3\obj\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\PenduSim3\bin\Debug\PenduSim.exe.config
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\PenduSim3\bin\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\PenduSim3\bin\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\PenduSim3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\PenduSim3\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\PenduSim3\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\PenduSim3\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\PenduSim3\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\PenduSim3\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\PenduSim3\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\PenduSim3\obj\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\PenduSim3\obj\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\고프 프로젝드\PenduSim3\bin\Debug\PenduSim.exe.config
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\고프 프로젝드\PenduSim3\bin\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\고프 프로젝드\PenduSim3\bin\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\고프 프로젝드\PenduSim3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\고프 프로젝드\PenduSim3\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\고프 프로젝드\PenduSim3\bin\Debug\PenduSim.exe.config
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\고프 프로젝드\PenduSim3\bin\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\고프 프로젝드\PenduSim3\bin\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\고프 프로젝드\PenduSim3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\고프 프로젝드\PenduSim3\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\프로젝트 복사본\고프 프로젝드\PenduSim3\bin\Debug\PenduSim.exe.config
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\프로젝트 복사본\고프 프로젝드\PenduSim3\bin\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\프로젝트 복사본\고프 프로젝드\PenduSim3\bin\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\프로젝트 복사본\고프 프로젝드\PenduSim3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\프로젝트 복사본\고프 프로젝드\PenduSim3\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\프로젝트 복사본\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\프로젝트 복사본\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\프로젝트 복사본\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\프로젝트 복사본\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\프로젝트 복사본\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\프로젝트 복사본\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\진자 2차 과제 복사본\과제 완성\새 폴더\프로젝트 복사본\고프 프로젝드\PenduSim3\obj\Debug\PenduSim.pdb
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\진자운동 시물레이션 자료\PenduSim3\PenduSim3\bin\Debug\PenduSim.exe.config
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\진자운동 시물레이션 자료\PenduSim3\PenduSim3\bin\Debug\PenduSim.exe
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\진자운동 시물레이션 자료\PenduSim3\PenduSim3\bin\Debug\PenduSim.pdb
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\진자운동 시물레이션 자료\PenduSim3\PenduSim3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\진자운동 시물레이션 자료\PenduSim3\PenduSim3\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\진자운동 시물레이션 자료\PenduSim3\PenduSim3\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\진자운동 시물레이션 자료\PenduSim3\PenduSim3\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\진자운동 시물레이션 자료\PenduSim3\PenduSim3\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\진자운동 시물레이션 자료\PenduSim3\PenduSim3\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\진자운동 시물레이션 자료\PenduSim3\PenduSim3\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\진자운동 시물레이션 자료\PenduSim3\PenduSim3\obj\Debug\PenduSim.exe
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\진자운동 시물레이션 자료\PenduSim3\PenduSim3\obj\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\PenduSim (2)\PenduSim3\bin\Debug\PenduSim.exe.config
+C:\Users\김요한\Desktop\PenduSim (2)\PenduSim3\bin\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\PenduSim (2)\PenduSim3\bin\Debug\PenduSim.pdb
+C:\Users\김요한\Desktop\PenduSim (2)\PenduSim3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\김요한\Desktop\PenduSim (2)\PenduSim3\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\김요한\Desktop\PenduSim (2)\PenduSim3\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\김요한\Desktop\PenduSim (2)\PenduSim3\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\김요한\Desktop\PenduSim (2)\PenduSim3\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\김요한\Desktop\PenduSim (2)\PenduSim3\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\김요한\Desktop\PenduSim (2)\PenduSim3\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\김요한\Desktop\PenduSim (2)\PenduSim3\obj\Debug\PenduSim.exe
+C:\Users\김요한\Desktop\PenduSim (2)\PenduSim3\obj\Debug\PenduSim.pdb
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\고급c연습폴더\PenduSim3\PenduSim3\bin\Debug\PenduSim.exe.config
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\고급c연습폴더\PenduSim3\PenduSim3\bin\Debug\PenduSim.exe
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\고급c연습폴더\PenduSim3\PenduSim3\bin\Debug\PenduSim.pdb
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\고급c연습폴더\PenduSim3\PenduSim3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\고급c연습폴더\PenduSim3\PenduSim3\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\고급c연습폴더\PenduSim3\PenduSim3\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\고급c연습폴더\PenduSim3\PenduSim3\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\고급c연습폴더\PenduSim3\PenduSim3\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\고급c연습폴더\PenduSim3\PenduSim3\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\고급c연습폴더\PenduSim3\PenduSim3\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\고급c연습폴더\PenduSim3\PenduSim3\obj\Debug\PenduSim.exe
+C:\Users\USER\OneDrive\바탕 화면\20년 고급C프 과제\고급c연습폴더\PenduSim3\PenduSim3\obj\Debug\PenduSim.pdb
+C:\Users\jin97\Desktop\PenduSim3\PenduSim3(6-10)\bin\Debug\PenduSim.exe.config
+C:\Users\jin97\Desktop\PenduSim3\PenduSim3(6-10)\bin\Debug\PenduSim.exe
+C:\Users\jin97\Desktop\PenduSim3\PenduSim3(6-10)\bin\Debug\PenduSim.pdb
+C:\Users\jin97\Desktop\PenduSim3\PenduSim3(6-10)\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jin97\Desktop\PenduSim3\PenduSim3(6-10)\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\jin97\Desktop\PenduSim3\PenduSim3(6-10)\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\jin97\Desktop\PenduSim3\PenduSim3(6-10)\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\jin97\Desktop\PenduSim3\PenduSim3(6-10)\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\jin97\Desktop\PenduSim3\PenduSim3(6-10)\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\jin97\Desktop\PenduSim3\PenduSim3(6-10)\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\jin97\Desktop\PenduSim3\PenduSim3(6-10)\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\jin97\Desktop\PenduSim3\PenduSim3(6-10)\obj\Debug\PenduSim.exe
+C:\Users\jin97\Desktop\PenduSim3\PenduSim3(6-10)\obj\Debug\PenduSim.pdb
+C:\Users\jin97\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\bin\Debug\PenduSim.exe.config
+C:\Users\jin97\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\bin\Debug\PenduSim.exe
+C:\Users\jin97\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\bin\Debug\PenduSim.pdb
+C:\Users\jin97\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jin97\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\jin97\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\jin97\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.PenduCHART.resources
+C:\Users\jin97\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\jin97\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\jin97\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\jin97\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\jin97\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\jin97\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.exe
+C:\Users\jin97\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.pdb
+C:\Users\wlsgh\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\bin\Debug\PenduSim.exe.config
+C:\Users\wlsgh\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\bin\Debug\PenduSim.exe
+C:\Users\wlsgh\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\bin\Debug\PenduSim.pdb
+C:\Users\wlsgh\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\wlsgh\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\wlsgh\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\wlsgh\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\wlsgh\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\wlsgh\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\wlsgh\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\wlsgh\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\wlsgh\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.exe
+C:\Users\wlsgh\Desktop\PenduSim3(6-10)\PenduSim3(6-10)\obj\Debug\PenduSim.pdb
+C:\Users\wlsgh\Desktop\PenduSim3\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\wlsgh\Desktop\PenduSim3\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\wlsgh\Desktop\PenduSim3\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\wlsgh\Desktop\PenduSim3\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\wlsgh\Desktop\PenduSim3\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\wlsgh\Desktop\PenduSim3\PenduSim_3final\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\wlsgh\Desktop\PenduSim3\PenduSim_3final\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\wlsgh\Desktop\PenduSim3\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\wlsgh\Desktop\PenduSim3\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\wlsgh\Desktop\PenduSim3\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\wlsgh\Desktop\PenduSim3\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\wlsgh\Desktop\PenduSim3\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\wlsgh\Desktop\PenduSim3\PenduSim_3final\obj\Debug\PenduSim.pdb
+C:\Users\USER\OneDrive\바탕 화면\PenduSim_final\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\USER\OneDrive\바탕 화면\PenduSim_final\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\USER\OneDrive\바탕 화면\PenduSim_final\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\USER\OneDrive\바탕 화면\PenduSim_final\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\USER\OneDrive\바탕 화면\PenduSim_final\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\USER\OneDrive\바탕 화면\PenduSim_final\PenduSim_3final\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\바탕 화면\PenduSim_final\PenduSim_3final\obj\Debug\PenduSim.frmPendu.resources
+C:\Users\USER\OneDrive\바탕 화면\PenduSim_final\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\USER\OneDrive\바탕 화면\PenduSim_final\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\바탕 화면\PenduSim_final\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\USER\OneDrive\바탕 화면\PenduSim_final\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\USER\OneDrive\바탕 화면\PenduSim_final\PenduSim_3final\obj\Debug\PenduSim.pdb
+H:\PenduSim_final_reallast\PenduSim_3final\bin\Debug\PenduSim.exe.config
+H:\PenduSim_final_reallast\PenduSim_3final\bin\Debug\PenduSim.exe
+H:\PenduSim_final_reallast\PenduSim_3final\bin\Debug\PenduSim.pdb
+H:\PenduSim_final_reallast\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+H:\PenduSim_final_reallast\PenduSim_3final\obj\Debug\PenduSim.csprojAssemblyReference.cache
+H:\PenduSim_final_reallast\PenduSim_3final\obj\Debug\PenduSim.frmPendu.resources
+H:\PenduSim_final_reallast\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+H:\PenduSim_final_reallast\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+H:\PenduSim_final_reallast\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+H:\PenduSim_final_reallast\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+H:\PenduSim_final_reallast\PenduSim_3final\obj\Debug\PenduSim.exe
+H:\PenduSim_final_reallast\PenduSim_3final\obj\Debug\PenduSim.pdb
+C:\Users\도예구\Desktop\PenduSim_final_reallast (2)\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\도예구\Desktop\PenduSim_final_reallast (2)\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\도예구\Desktop\PenduSim_final_reallast (2)\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\도예구\Desktop\PenduSim_final_reallast (2)\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\도예구\Desktop\PenduSim_final_reallast (2)\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\도예구\Desktop\PenduSim_final_reallast (2)\PenduSim_3final\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\도예구\Desktop\PenduSim_final_reallast (2)\PenduSim_3final\obj\Debug\PenduSim.frPen.resources
+C:\Users\도예구\Desktop\PenduSim_final_reallast (2)\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\도예구\Desktop\PenduSim_final_reallast (2)\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\도예구\Desktop\PenduSim_final_reallast (2)\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\도예구\Desktop\PenduSim_final_reallast (2)\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\도예구\Desktop\PenduSim_final_reallast (2)\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\도예구\Desktop\PenduSim_final_reallast (2)\PenduSim_3final\obj\Debug\PenduSim.pdb
+C:\Users\김건욱\Desktop\고급c프\진자운동-2021\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\김건욱\Desktop\고급c프\진자운동-2021\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\김건욱\Desktop\고급c프\진자운동-2021\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\김건욱\Desktop\고급c프\진자운동-2021\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\김건욱\Desktop\고급c프\진자운동-2021\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\김건욱\Desktop\고급c프\진자운동-2021\PenduSim_3final\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\김건욱\Desktop\고급c프\진자운동-2021\PenduSim_3final\obj\Debug\PenduSim.frPen.resources
+C:\Users\김건욱\Desktop\고급c프\진자운동-2021\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\김건욱\Desktop\고급c프\진자운동-2021\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\김건욱\Desktop\고급c프\진자운동-2021\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\김건욱\Desktop\고급c프\진자운동-2021\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\김건욱\Desktop\고급c프\진자운동-2021\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\김건욱\Desktop\고급c프\진자운동-2021\PenduSim_3final\obj\Debug\PenduSim.pdb
+C:\Users\jhyou\Desktop\진자운동-코드변수,전체구조 수정본\PenduSim_3final\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\jhyou\Desktop\진자운동-코드변수,전체구조 수정본\PenduSim_3final\obj\Debug\PenduSim.frPen.resources
+C:\Users\jhyou\Desktop\진자운동-코드변수,전체구조 수정본\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\jhyou\Desktop\진자운동-코드변수,전체구조 수정본\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\jhyou\Desktop\진자운동-코드변수,전체구조 수정본\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\jhyou\Desktop\진자운동-코드변수,전체구조 수정본\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\jhyou\Desktop\진자운동-코드변수,전체구조 수정본\PenduSim_3final\obj\Debug\PenduSim.pdb
+C:\Users\jhyou\Desktop\진자운동-코드변수,전체구조 수정본\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\jhyou\Desktop\진자운동-코드변수,전체구조 수정본\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\jhyou\Desktop\진자운동-코드변수,전체구조 수정본\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\jhyou\Desktop\진자운동-코드변수,전체구조 수정본\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jhyou\Desktop\진자운동-코드변수,전체구조 수정본\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\jhyou\Desktop\진자운동-코드변수,전체구조 수정본\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 공기저항 선택\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 공기저항 선택\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 공기저항 선택\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 공기저항 선택\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 공기저항 선택\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 공기저항 선택\PenduSim_3final\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 공기저항 선택\PenduSim_3final\obj\Debug\PenduSim.frPen.resources
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 공기저항 선택\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 공기저항 선택\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 공기저항 선택\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 공기저항 선택\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 공기저항 선택\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 공기저항 선택\PenduSim_3final\obj\Debug\PenduSim.pdb
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택\PenduSim_3final\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택\PenduSim_3final\obj\Debug\PenduSim.frPen.resources
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\jhyou\Desktop\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택\PenduSim_3final\obj\Debug\PenduSim.pdb
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택 (2)\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택 (2)\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택 (2)\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택 (2)\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택 (2)\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택 (2)\PenduSim_3final\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택 (2)\PenduSim_3final\obj\Debug\PenduSim.frPen.resources
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택 (2)\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택 (2)\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택 (2)\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택 (2)\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택 (2)\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-TextBox쪽 코드 수정, 행성 선택, 저항 매질 선택 (2)\PenduSim_3final\obj\Debug\PenduSim.pdb
+H:\새 폴더\진자운동-(0520 수정본)\PenduSim_3final\bin\Debug\PenduSim.exe.config
+H:\새 폴더\진자운동-(0520 수정본)\PenduSim_3final\bin\Debug\PenduSim.exe
+H:\새 폴더\진자운동-(0520 수정본)\PenduSim_3final\bin\Debug\PenduSim.pdb
+H:\새 폴더\진자운동-(0520 수정본)\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+H:\새 폴더\진자운동-(0520 수정본)\PenduSim_3final\obj\Debug\PenduSim.csprojAssemblyReference.cache
+H:\새 폴더\진자운동-(0520 수정본)\PenduSim_3final\obj\Debug\PenduSim.frPen.resources
+H:\새 폴더\진자운동-(0520 수정본)\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+H:\새 폴더\진자운동-(0520 수정본)\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+H:\새 폴더\진자운동-(0520 수정본)\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+H:\새 폴더\진자운동-(0520 수정본)\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+H:\새 폴더\진자운동-(0520 수정본)\PenduSim_3final\obj\Debug\PenduSim.exe
+H:\새 폴더\진자운동-(0520 수정본)\PenduSim_3final\obj\Debug\PenduSim.pdb
+C:\Users\jhyou\Desktop\진자운동-(0520 수정본1)\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\jhyou\Desktop\진자운동-(0520 수정본1)\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\jhyou\Desktop\진자운동-(0520 수정본1)\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\jhyou\Desktop\진자운동-(0520 수정본1)\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jhyou\Desktop\진자운동-(0520 수정본1)\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\jhyou\Desktop\진자운동-(0520 수정본1)\PenduSim_3final\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\jhyou\Desktop\진자운동-(0520 수정본1)\PenduSim_3final\obj\Debug\PenduSim.frPen.resources
+C:\Users\jhyou\Desktop\진자운동-(0520 수정본1)\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\jhyou\Desktop\진자운동-(0520 수정본1)\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\jhyou\Desktop\진자운동-(0520 수정본1)\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\jhyou\Desktop\진자운동-(0520 수정본1)\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\jhyou\Desktop\진자운동-(0520 수정본1)\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\jhyou\Desktop\진자운동-(0520 수정본1)\PenduSim_3final\obj\Debug\PenduSim.pdb
+C:\Users\jhyou\Desktop\c프팀프\결과물\진자운동-(실시간 주기 적용)\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\jhyou\Desktop\c프팀프\결과물\진자운동-(실시간 주기 적용)\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\jhyou\Desktop\c프팀프\결과물\진자운동-(실시간 주기 적용)\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\jhyou\Desktop\c프팀프\결과물\진자운동-(실시간 주기 적용)\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jhyou\Desktop\c프팀프\결과물\진자운동-(실시간 주기 적용)\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\jhyou\Desktop\c프팀프\결과물\진자운동-(실시간 주기 적용)\PenduSim_3final\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\jhyou\Desktop\c프팀프\결과물\진자운동-(실시간 주기 적용)\PenduSim_3final\obj\Debug\PenduSim.frPen.resources
+C:\Users\jhyou\Desktop\c프팀프\결과물\진자운동-(실시간 주기 적용)\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\jhyou\Desktop\c프팀프\결과물\진자운동-(실시간 주기 적용)\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\jhyou\Desktop\c프팀프\결과물\진자운동-(실시간 주기 적용)\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\jhyou\Desktop\c프팀프\결과물\진자운동-(실시간 주기 적용)\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\jhyou\Desktop\c프팀프\결과물\진자운동-(실시간 주기 적용)\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\jhyou\Desktop\c프팀프\결과물\진자운동-(실시간 주기 적용)\PenduSim_3final\obj\Debug\PenduSim.pdb
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-(주기 변경사항 적용)\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-(주기 변경사항 적용)\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-(주기 변경사항 적용)\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-(주기 변경사항 적용)\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-(주기 변경사항 적용)\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-(주기 변경사항 적용)\PenduSim_3final\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-(주기 변경사항 적용)\PenduSim_3final\obj\Debug\PenduSim.frPen.resources
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-(주기 변경사항 적용)\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-(주기 변경사항 적용)\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-(주기 변경사항 적용)\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-(주기 변경사항 적용)\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-(주기 변경사항 적용)\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\도예구\Documents\카카오톡 받은 파일\진자운동-(주기 변경사항 적용)\PenduSim_3final\obj\Debug\PenduSim.pdb
+C:\Users\도예구\Desktop\진자운동-(천장 색 변경)\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\도예구\Desktop\진자운동-(천장 색 변경)\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\도예구\Desktop\진자운동-(천장 색 변경)\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\도예구\Desktop\진자운동-(천장 색 변경)\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\도예구\Desktop\진자운동-(천장 색 변경)\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\도예구\Desktop\진자운동-(천장 색 변경)\PenduSim_3final\obj\Debug\PenduSim.csprojAssemblyReference.cache
+C:\Users\도예구\Desktop\진자운동-(천장 색 변경)\PenduSim_3final\obj\Debug\PenduSim.frPen.resources
+C:\Users\도예구\Desktop\진자운동-(천장 색 변경)\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\도예구\Desktop\진자운동-(천장 색 변경)\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\도예구\Desktop\진자운동-(천장 색 변경)\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\도예구\Desktop\진자운동-(천장 색 변경)\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\도예구\Desktop\진자운동-(천장 색 변경)\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\도예구\Desktop\진자운동-(천장 색 변경)\PenduSim_3final\obj\Debug\PenduSim.pdb
+C:\Users\KHJ\Downloads\Send Anywhere (2022-05-21 10-19-44)\PenduSim_3final\PenduSim_3final\obj\Debug\PenduSim.csproj.AssemblyReference.cache
+C:\Users\KHJ\Downloads\Send Anywhere (2022-05-21 10-19-44)\PenduSim_3final\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\KHJ\Downloads\Send Anywhere (2022-05-21 10-19-44)\PenduSim_3final\PenduSim_3final\obj\Debug\PenduSim.pdb
+C:\Users\KHJ\Downloads\Send Anywhere (2022-05-21 10-19-44)\PenduSim_3final\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\KHJ\Downloads\Send Anywhere (2022-05-21 10-19-44)\PenduSim_3final\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\KHJ\Downloads\Send Anywhere (2022-05-21 10-19-44)\PenduSim_3final\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\KHJ\Downloads\Send Anywhere (2022-05-21 10-19-44)\PenduSim_3final\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\KHJ\Downloads\Send Anywhere (2022-05-21 10-19-44)\PenduSim_3final\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\KHJ\Downloads\Send Anywhere (2022-05-21 10-19-44)\PenduSim_3final\PenduSim_3final\obj\Debug\PenduSim.frPen.resources
+C:\Users\KHJ\Downloads\Send Anywhere (2022-05-21 10-19-44)\PenduSim_3final\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\KHJ\Downloads\Send Anywhere (2022-05-21 10-19-44)\PenduSim_3final\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\KHJ\Downloads\Send Anywhere (2022-05-21 10-19-44)\PenduSim_3final\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\KHJ\Downloads\Send Anywhere (2022-05-21 10-19-44)\PenduSim_3final\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\bin\Debug\PenduSim.exe.config
+C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\bin\Debug\PenduSim.exe
+C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\bin\Debug\PenduSim.pdb
+C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.csproj.AssemblyReference.cache
+C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.frPen.resources
+C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.Properties.Resources.resources
+C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.csproj.GenerateResource.cache
+C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.csproj.CoreCompileInputs.cache
+C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.csproj.CopyComplete
+C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.exe
+C:\Users\KHJ\Documents\확진자_PenduSim\PenduSim_3final\obj\Debug\PenduSim.pdb
